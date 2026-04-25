@@ -16,8 +16,8 @@ Fama-French 10 Industry Portfolios — [Kenneth French Data Library](https://mba
 
 ## Results
 
-|  | Baseline Strategy | Risk-Managed Strategy |
-|--|--|--|
+| | Baseline Strategy | Risk-Managed Strategy |
+|---|---|---|
 | Annualised Return | 31.1% | 14.8% |
 | Sharpe Ratio | 0.78 | 0.85 |
 | Max Drawdown | -65.4% | -29.0% |
